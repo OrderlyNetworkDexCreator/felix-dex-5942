@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "sixdex",
   "VITE_ORDERLY_BROKER_NAME": "Six DEX",
+  "VITE_BROKER_EOA_ADDRESS": "0xe422b8a13734b8a1b32f58391a3a69c8336b3317",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56,42161,8453,10",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Portfolio,Rewards,Leaderboard,Vaults",
   "VITE_CUSTOM_MENUS": "News, https://sixdex.org/tradingview",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/+EcyrWh8NNlM2ZmM9",
   "VITE_DISCORD_URL": "https://discord.gg/ZE6t3mCddd",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,it,es,ko,id,vi,uk,nl,de,fr",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "7",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
